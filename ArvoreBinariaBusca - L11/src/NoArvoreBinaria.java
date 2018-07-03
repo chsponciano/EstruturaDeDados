@@ -1,4 +1,9 @@
 
+/**
+ *
+ * @author Carlos Henrique Ponciano da Silva
+ */
+
 public class NoArvoreBinaria<T> {
 	
 	private T info;
