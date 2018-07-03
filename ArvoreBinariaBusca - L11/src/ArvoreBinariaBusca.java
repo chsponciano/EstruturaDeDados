@@ -1,4 +1,9 @@
 
+/**
+ *
+ * @author Carlos Henrique Ponciano da Silva
+ */
+
 public class ArvoreBinariaBusca<T extends Comparable<T>> extends ArvoreBinariaAbstract<T> {
 
     public void inserir(T info) {

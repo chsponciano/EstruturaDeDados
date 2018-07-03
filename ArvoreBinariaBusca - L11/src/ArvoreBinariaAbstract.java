@@ -1,4 +1,9 @@
 
+/**
+ *
+ * @author Carlos Henrique Ponciano da Silva
+ */
+
 public abstract class ArvoreBinariaAbstract<T> {
 
     private NoArvoreBinaria<T> raiz;

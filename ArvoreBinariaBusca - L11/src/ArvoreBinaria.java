@@ -1,4 +1,9 @@
 
+/**
+ *
+ * @author Carlos Henrique Ponciano da Silva
+ */
+
 public class ArvoreBinaria<T> extends ArvoreBinariaAbstract<T> {
 
     @Override
